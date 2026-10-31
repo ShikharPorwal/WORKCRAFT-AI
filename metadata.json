@@ -1,0 +1,6 @@
+{
+  "name": "WorkCraft AI - Enterprise Resume Projects & Live Workbench",
+  "description": "High-impact enterprise AI projects to build and showcase on your resume, featuring interactive system design breakdowns, live Gemini-powered workflow demos, and a STAR resume bullet generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
